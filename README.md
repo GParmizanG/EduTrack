@@ -79,5 +79,4 @@
 4. Используя документацию Swagger можете писать запросы
 
 # ERD
-![ERD](https://github.com/GparmizanG/MusicShare/blob/master/ERD.png)
-   
+![ERD](https://github.com/GParmizanG/MusicShare/blob/main//MusicShare.png)
